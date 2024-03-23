@@ -19,3 +19,5 @@ include:
     shield: card_right
   - board: nice_nano_v2
     shield: card_dongle
+  - board: nice_nano_v2
+    shield: settings_reset
