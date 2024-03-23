@@ -126,10 +126,10 @@
                 
        		alpha1 {
 		bindings = <
-		&trans 		&hm LCTL L 	&hm LALT G 	&hm LGUI D		&hm RGUI H 	&hm RALT U    		&hm RCTL O	&trans  
-		&hl NM1 I	&hl SM2 S	&hl SM1 R	&hl SYS T 	 	&hl SYS N    	&hl SM1 E   		&hl SM2 A 	&hl NM1 C
-		&trans	 	&trans 		&trans 		&mt LC(LS(LALT)) SPC 	&alpha2macro	&trans 			&trans		&trans
-								&trans	 		&trans
+		&kp A 		&kp B 	&kp C 	&kp D		&hm RGUI H 	&hm RALT U    		&hm RCTL O	&trans  
+		&kp E &kp F	&kp G	&kp H 	 	&hl SYS N    	&hl SM1 E   		&hl SM2 A 	&hl NM1 C
+		&kp I	 	&kp J 		&kp K 		&kp L 	&alpha2macro	&trans 			&trans		&trans
+								&kp M	 		&trans
 		>;
 		};
        		game {
